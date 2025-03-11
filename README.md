@@ -7,7 +7,7 @@
 
 .bg {
 
-    background-color: yellow; /* Mengubah latar belakang menjadi kuning */
+    background-color: yellow; /* home page */
 
     color: black; /* Warna teks */
 
