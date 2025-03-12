@@ -2,7 +2,7 @@
 <html>
     <head>
     <script>
-         document. write ("script diantara tag head")
+         document. write ("animal")
     </script>
     </head>
     <body>
