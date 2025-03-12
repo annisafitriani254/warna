@@ -7,7 +7,7 @@
     </head>
     <body>
 <script>
-document. write ("script diantara tag body"
+document. write ("grafik"
 </script>
   </body>
 </html>
