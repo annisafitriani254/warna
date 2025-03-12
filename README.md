@@ -11,3 +11,4 @@ document. write ("grafik"
 </script>
   </body>
 </html>
+document.getElementById("pesan").innerText = "Halo, Dunia! Ini JavaScript di Hosting.";
